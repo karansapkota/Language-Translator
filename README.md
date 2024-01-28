@@ -15,6 +15,6 @@ This Python application provides a user-friendly interface for translating text 
 6. The translated text will be displayed in the "Output" box.
 
 **Features**
-a. Simple and intuitive interface
-b. Supports multiple languages
-c. Easy to use within a Jupyter Notebook
+1. Simple and intuitive interface
+2. Supports multiple languages
+3. Easy to use within a Jupyter Notebook
