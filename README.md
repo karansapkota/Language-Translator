@@ -18,3 +18,4 @@ This Python application provides a user-friendly interface for translating text 
 1. Simple and intuitive interface
 2. Supports multiple languages
 3. Easy to use within a Jupyter Notebook
+4. Basic translation 
